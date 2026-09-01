@@ -1,4 +1,4 @@
-# Zihao-Jin
+# Nihowdy， I'm Zihao Jin(金子豪) 😀
 
 an Undergraduate @ School of Artificial Intelligence, Sun Yat-sen University. <br>
 Feel free to contact me. <br>
