@@ -9,6 +9,6 @@ I am currently exploring **PhD / research opportunities for Fall 2027**. <br>
 [CV](./Zihao%20Jin_CV.pdf) |
 [Research Portfolio](./ZihaoJin_Research_Portfolio.pdf) |
 [Transcript](./Zihao%20Jin_Transcript.pdf) |
-[Nereus](https://brl-sysu.github.io/Nereus/) |
+[Nereus_homepage](https://brl-sysu.github.io/Nereus/) |
 [Email](mailto:jinzh35@mail2.sysu.edu.cn) |
 [GitHub](https://github.com/jinzaoxx)
