@@ -1,4 +1,4 @@
-# Nihowdy, I'm Zihao Jin (金子豪) 😊
+# How u doin, I'm Zihao Jin (金子豪) 😊
 
 Undergraduate student @Sun Yat-sen University. <br>
 Research interests: **Embodied AI, Robot Learning, Multimodal Learning, and 3D Vision**. <br>
