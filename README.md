@@ -1,6 +1,6 @@
 # Nihowdy, I'm Zihao Jin (金子豪) 😊
 
-Undergraduate researcher @ School of Artificial Intelligence, Sun Yat-sen University. <br>
+Undergraduate student @Sun Yat-sen University. <br>
 Research interests: **Embodied AI, Robot Learning, Multimodal Learning, and 3D Vision**. <br>
 I am currently exploring **PhD / research opportunities for Fall 2027**. <br>
 
